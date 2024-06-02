@@ -1,0 +1,6 @@
+flask
+roboflow
+ultralytics
+pillow
+numpy
+torch
